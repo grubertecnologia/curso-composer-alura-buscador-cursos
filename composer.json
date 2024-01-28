@@ -15,7 +15,7 @@
     },
     "autoload": {
         "files": [
-            "./functions.php"
+            "functions.php"
         ],
         "psr-4": {
             "GruberTecnologia\\BuscadorDeCursos\\": "src/"
@@ -42,5 +42,6 @@
     },
     "scripts-descriptions": {
         "check": "Roda as verificações do código! PHAN, PHPCS E PHPUNIT!"
-    }
+    },
+    "licente": "GPL-3.0"
 }
